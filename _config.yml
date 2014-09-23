@@ -4,13 +4,14 @@
 
 name: Andreas Renberg (IQAndreas)
 author: Andreas Renberg (IQAndreas)
-url: 'https://github.com/IQAndreas/gh-pages-template'
+url: 'http://www.iqandreas.com'
 
-title: "GitHub Pages Jekyll Template"
-subtitle: "Avoiding repeated code across all my GitHub Pages"
+title: "Andreas Renberg (IQAndreas)"
+displayed_title: <span id="andreas-renberg">Andreas Renberg</span> (<span id="iqandreas"><span id="iq">IQ</span><span id="andreas">Andreas</span></span>)
+subtitle: My PGP (or GPG) and SSH Keys
 
-github_url: 'https://github.com/IQAndreas/gh-pages-template/tree/gh-pages-minimal'
-github_username: IQAndreas
+#github_url: 'https://github.com/IQAndreas/keys'
+#github_username: IQAndreas
 
 #copyright_message: &copy;&nbsp;2014 by Andreas&nbsp;Renberg
 github_license: The MIT License
@@ -40,8 +41,8 @@ global_fonts:       http://static.iqandreas.com/assets/fonts
 google_analytics_id:   UA-44446017-1
 google_analytics_name: iqandreas.com
 
-source_title_prefix: "GitHub: IQAndreas/gh-pages-template"
-source_url: 'https://github.com/IQAndreas/gh-pages-template/tree/gh-pages'
+source_title_prefix: "GitHub: IQAndreas/keys"
+source_url: 'https://github.com/IQAndreas/keys/tree/gh-pages'
 
 # ----------------------- #
 #     Jekyll Configs      #
