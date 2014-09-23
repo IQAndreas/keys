@@ -40,7 +40,8 @@ E82F 46DD 8613 3D80 FDB8  A797 0E20 7194 8BBB 5F64
 
 The fingerprint can be compared with the (hopefully same) fingerprint listed on the following pages:
 
- * `TODO`
+ * [@IQAndreas on Twitter](https://twitter.com/IQAndreas/status/514481921007448064)
+ * [Andreas Renberg on Facebook](https://www.facebook.com/iqandreas/posts/826072597413476)
 
 If you are very paranoid about security, (who knows, maybe the both the fingerprint and keys are being altered by a [man in the middle](http://en.wikipedia.org/wiki/Man-in-the-middle_attack), meaning this website and the key listed on it has been compromised) you can call me on the telephone to verify the fingerprint.
 
