@@ -7,7 +7,7 @@ author: Andreas Renberg (IQAndreas)
 url: 'http://www.iqandreas.com'
 
 title: "Andreas Renberg (IQAndreas)"
-displayed_title: <span id="andreas-renberg">Andreas Renberg</span> (<span id="iqandreas"><span id="iq">IQ</span><span id="andreas">Andreas</span></span>)
+displayed_title: <span id="title-compact">Andreas Renberg <span id="iqandreas">(<span id="iq">IQ</span><span id="andreas">Andreas</span>)</span></span>
 subtitle: My PGP (or GPG) and SSH Keys
 
 #github_url: 'https://github.com/IQAndreas/keys'
