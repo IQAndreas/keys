@@ -32,7 +32,11 @@ To supplement your learning after that, plenty of tutorials can be found online 
 
 ### <a id="verifying-fingerprints"></a>Verifying fingerprints
 
-The fingerprint for my GPG key is `E82F 46DD 8613 3D80 FDB8  A797 0E20 7194 8BBB 5F64`.
+The "easy to read" fingerprint for my GPG key is `8BBB 5F64`, and the full fingerprint is:
+
+```
+E82F 46DD 8613 3D80 FDB8  A797 0E20 7194 8BBB 5F64
+```
 
 The fingerprint can be compared with the (hopefully same) fingerprint listed on the following pages:
 
@@ -40,7 +44,12 @@ The fingerprint can be compared with the (hopefully same) fingerprint listed on 
 
 If you are very paranoid about security, (who knows, maybe the both the fingerprint and keys are being altered by a [man in the middle](http://en.wikipedia.org/wiki/Man-in-the-middle_attack), meaning this website and the key listed on it has been compromised) you can call me on the telephone to verify the fingerprint.
 
-I'm not going to list the phone number or post address on this website, as anyone who compromises the key listed on this page is also going to compromise the telephone number listed on here. If you have received a business card from me, use the number listed on that. Alternatively, the telephone number can be looked up using "more secure methods" by searching for the telephone number for the company I work for, _"Med Tech Sweden, Inc."_ in _Geneseo, Illinois, USA_, or at the address of _"Bo Renberg"_ in _Degerfors, Sweden_.
+I'm not going to list the phone number or post address on this website, as anyone who compromises the key listed on this page is also going to compromise the telephone number listed on here. If you have received a business card from me, use the number listed on that.
+
+Alternatively, a telephone number or other form of contact information can be looked up using "more secure methods" by searching for one of the following:
+
+ * The company I work for, _"Med Tech Sweden, Inc."_ in _Geneseo, Illinois, USA_
+ * At the address of _"Bo Renberg"_ in _Degerfors, Sweden_
 
 
 ### <a id="key-signature-policy"></a>Key Signature Policy (Certification Practice Statement)

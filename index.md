@@ -11,14 +11,16 @@ title: My PGP (or GPG) and SSH Keys
         <li><a href="#pgp-fingerprint">Fingerprint</a></li>
         <li><a href="#pgp-automatic-download">Automatic Download</a></li>
         <li><a href="#pgp-manual-download">Manual Download</a></li>
-        <li><a href="#SSH">View source and report issues</a></li>
+        <li><a href="#SSH">SSH</a></li>
     </ul>
 </nav>
 {% endraw %}{%endcomment%}
 
 ## <a id="pgp"></a>PGP (or GnuPG)
 
-This is my PGP (also called GPG or GnuPGP) key that is used for encrypting email and other sensitive data, or checking if the text in an email I have sent you has been modified or tampered with. If you are unfamiliar with GPG but would still like to send me encrypted messages, see [_Details regarding GPG (or PGP): New to GPG?_](/keys/gpg/#new-to-gpg).
+This is my PGP (also called GPG or GnuPGP) key that is used for encrypting email and other sensitive data, or checking if the text in an email I have sent you has been modified or tampered with. If you are unfamiliar with GPG but would still like to send me encrypted messages, see the following page:
+
+ * [_Details regarding GPG (or PGP): New to GPG?_](/keys/gpg/#new-to-gpg)
 
 ### <a id="pgp-fingerprint"></a>Fingerprint
 
@@ -26,8 +28,8 @@ See also [_Details regarding GPG (or PGP): Verifying fingerprints_](/keys/gpg/#v
 
 ```
 Fingerprint:	E82F 46DD 8613 3D80 FDB8 A797 0E20 7194 8BBB 5F64
-Long Key ID:	                              0E20 7194 8BBB 5F64  (0x0E2071948BBB5F64)
-Short Key ID:	                                        8BBB 5F64  (0x8BBB5F64)
+Long Key ID:	                              0E20 7194 8BBB 5F64
+Short Key ID:	                                        8BBB 5F64
 ```
 
 ### <a id="pgp-automatic-download"></a>Automatic Download
