@@ -1,6 +1,7 @@
 ---
 layout: slate
 title: SSH Key
+subtitle: SSH Key
 ---
 
 This is my SSH key that can be used for granting me access into remote servers. For both of our security, please setup your SSH server to use public key authentication instead of password authentication. This is also the key used for GIT authentication.

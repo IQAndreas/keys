@@ -1,6 +1,7 @@
 ---
 layout: slate
 title: Details regarding GPG (or PGP)
+subtitle: Details regarding GPG (or PGP)
 ---
 
 {%comment%}{% raw %}
